@@ -6,4 +6,6 @@
       2. improve upon the layout.
       3. refactor code.
 
-## Sreenshot of improved page:
+## Sreenshots of improved page:
+
+ https://stanleymcoy.github.io/code-refactor/
